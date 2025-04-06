@@ -12,6 +12,6 @@ Save data to show more recommendations of the type of movie chosen
 
 API Links:
   - 
-OMDb API - https://www.omdbapi.com/
-TMDb API - https://developer.themoviedb.org/reference/intro/getting-started
+- OMDb API - https://www.omdbapi.com/
+- TMDb API - https://developer.themoviedb.org/reference/intro/getting-started
 
