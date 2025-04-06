@@ -1,4 +1,4 @@
-# python-project
+# Project Proposal
 Project Summary:
   -
 A Python application that allows users to generate movies based on their recommendations. The application will fetch real-time data using a movie API.
