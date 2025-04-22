@@ -5,7 +5,7 @@ Apr. 22nd, 2025
 """
 
 # VARIABLES
-API_KEY = "your_tmdb_api_key_here"
+API_KEY = "b3dcb0edaec6d45f2446465c4aa6dd80"
 BASE_URL = "https://api.themoviedb.org/3"
 
 # IMPORTS
