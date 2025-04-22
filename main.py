@@ -33,8 +33,7 @@ def get_movie_details(id):
     else:
         print("Could not retrieve details.")
 
-# FUNCTION CALLS
-if __name__ == "__main__":
+def main():
     genre = input("Enter a movie genre or mood: ")
     movies = get_movie_genre(genre)
 
@@ -48,3 +47,5 @@ if __name__ == "__main__":
         except ValueError:
             print("Please enter a valid number.")
 
+# FUNCTION CALLS
+main()
