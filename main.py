@@ -1,10 +1,10 @@
 """
 The main handler for the project
 Jon Duopu
+Apr. 22nd, 2025
 """
 
 # VARIABLES
-import request
 
 API_KEY = ""
 BASE_URL = ""
