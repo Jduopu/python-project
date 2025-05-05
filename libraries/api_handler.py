@@ -5,8 +5,10 @@ Apr. 22nd, 2025
 """
 
 # VARIABLES
-from libraries import requests, json
-from main import API_KEY, BASE_URL
+import requests
+import json
+API_KEY = "b3dcb0edaec6d45f2446465c4aa6dd80"
+BASE_URL = "https://api.themoviedb.org/3"
 
 # FUNCTIONS
 def search_movies_by_keyword(keyword, limit=5):
